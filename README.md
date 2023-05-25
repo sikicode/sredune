@@ -1,3 +1,3 @@
-# sredune
+# SREdune
 
-Stores all sre related practices and resources
+SRE related practices and resources
